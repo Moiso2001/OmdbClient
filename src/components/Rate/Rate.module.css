@@ -1,0 +1,38 @@
+.div_global{
+    background-color: white;
+}
+
+.div_header{
+    background-color: rgb(4, 3, 7);
+    color: white;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 1rem;
+
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+}
+
+.header__icon_home{
+    color: white;
+
+    font-size: 1.7rem;
+}
+
+.div_movies{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+
+    gap: 1rem;
+}
+
+@media (min-width: 500px) {
+    .div_global{
+        width: 30rem;
+    }
+}

@@ -1,0 +1,55 @@
+.div_global{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+.div_features{
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+}
+
+.div_buttons{
+    display: flex;
+    gap:0.2rem;
+
+    margin:1rem;
+    align-items: end;
+    justify-content: end;
+}
+
+.div_buttons button{
+    width: 100%;
+}
+
+.features__div_feedback{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    margin: 1rem;
+    
+}
+
+.features__div_feedback textarea{
+    height: 12rem;
+
+    margin-bottom: 1rem;
+}
+
+.feedback__div_inputs{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    justify-content: center;
+    align-items: center;
+
+}

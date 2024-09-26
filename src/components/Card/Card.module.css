@@ -1,0 +1,38 @@
+.div_global{
+    background-color: rgb(4, 3, 7);
+
+    padding: 0.6rem;
+    border-radius: 1rem;
+
+    color: white;
+
+    width: 100%;
+}
+
+.div_global img{
+    min-width: 15rem;
+    max-width: 15rem;
+
+    border-radius: 0.8rem;
+
+    margin-bottom: 1rem;
+}
+
+.div_global h3{
+    font-size: 1.2rem;
+}
+
+.div_title{
+    display: flex;
+
+    justify-content: space-between;
+
+    padding: 0.5rem;
+}
+
+.div_extra{
+    display: flex;
+    justify-content: space-between;
+
+    padding: 0.5rem;
+}
