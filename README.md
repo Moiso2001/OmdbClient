@@ -21,7 +21,7 @@ VITE_BACKEND_URL=YOUR_API_URL
 Clone the project
 
 ```bash
-  git clone https://github.com/Moiso2001/
+  git clone https://github.com/Moiso2001/OmdbClient.git
 ```
 
 Go to the project directory
